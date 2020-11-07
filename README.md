@@ -1,7 +1,8 @@
-# React-Leaflet Quickstart 
+# React-Leaflet Quickstart Demo 
 `yarn install` to make sure you've got all required dependencies, then `yarn start`.
 
-Currently working on geocoding capabilities with autocomplete search
+Supports geocoding!
+
 
 ## Available Scripts
 
