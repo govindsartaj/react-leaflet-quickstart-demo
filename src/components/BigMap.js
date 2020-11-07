@@ -46,7 +46,7 @@ class BigMap extends React.Component {
           />
           <Marker position={this.state.position}>
             <Popup>
-              A pretty CSS3 popup. <br /> Easily customizable.
+            Well well well, if it isn't my own location.
             </Popup>
           </Marker>
         </MapContainer>
